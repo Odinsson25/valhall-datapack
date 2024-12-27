@@ -4,9 +4,9 @@
   "key": {
     "G": "minecraft:gold_ingot",
     "E": "minecraft:egg",
-    "O": "minecraft:white_wool"
+    "O": "minecraft:bone"
   },
   "result": {
-    "id": "minecraft:sheep_spawn_egg"
+    "id": "minecraft:skeleton_spawn_egg"
   }
 }

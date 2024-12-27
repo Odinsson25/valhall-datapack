@@ -1,7 +1,8 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["GOG", "OEO", "GOG"],
+  "pattern": ["TOG", "OEO", "GOG"],
   "key": {
+    "T": "minecraft:emerald",
     "G": "minecraft:gold_ingot",
     "E": "minecraft:egg",
     "O": "minecraft:egg"

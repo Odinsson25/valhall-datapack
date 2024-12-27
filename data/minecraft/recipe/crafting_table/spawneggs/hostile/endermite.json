@@ -4,9 +4,9 @@
   "key": {
     "G": "minecraft:gold_ingot",
     "E": "minecraft:egg",
-    "O": "minecraft:leather"
+    "O": "minecraft:ender_pearl"
   },
   "result": {
-    "id": "minecraft:cow_spawn_egg"
+    "id": "minecraft:endermite_spawn_egg"
   }
 }

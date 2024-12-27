@@ -4,10 +4,10 @@
   "key": {
     "T": "minecraft:emerald",
     "G": "minecraft:gold_ingot",
-    "E": "minecraft:poppy",
-    "O": "minecraft:iron_block"
+    "E": "minecraft:egg",
+    "O": "minecraft:glow_ink_sac"
   },
   "result": {
-    "id": "minecraft:iron_golem_spawn_egg"
+    "id": "minecraft:glow_squid_spawn_egg"
   }
 }
